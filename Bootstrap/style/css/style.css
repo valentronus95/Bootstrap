@@ -43,3 +43,6 @@
 .card {
   margin-bottom: 17px;
 }
+.carousel-inner {
+  height: 500px;
+}
